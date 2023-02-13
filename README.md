@@ -130,7 +130,7 @@ After that we analysis all the columns one by one to examine whether the particu
 
 Contact me for Data Science Project Collaborations
 
-[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://github.com/](https://github.com/AnshRockstar))
+[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://carrd.co/](https://anshbhatnagar.carrd.co/))
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-bhatnagar-093609117/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -142,7 +142,7 @@ Contact me for Data Science Project Collaborations
 *	Towards data science
 *	Python libraries documentation
 *	Data camp
-* 	Medium
+* Medium
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
